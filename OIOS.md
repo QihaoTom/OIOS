@@ -4,6 +4,9 @@
 
 ### Vision
 **A stong and accountable United Nations fortified by world-class internal oversight**
+
+### Mission
+**Delivering objectives oversight results that make a difference**
    * Internal Audit Division
    * Inspection and Evaluation Division
    * Investigations Division
