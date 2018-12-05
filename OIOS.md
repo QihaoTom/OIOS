@@ -26,7 +26,8 @@ Under the supervision of the Executive Officer and working closely with the team
 * 2) Provide administrative support to OIOS recruitment activities; 
 * 3) Draft HR, travel and administration related communications on behalf of the Executive Office such as broadcasts to all staff, or individual responses to client queries 
 * 4) Assist with the design and facilitation of training, guidance materials and client support to OIOS staff on the procedure for requesting travel and travel related payments through the UN’s Enterprise Resource Planning system, UMOJA. 
-* 5) Provide administrative support for daily office operations; and 6) Perform other duties as required.
+* 5) Provide administrative support for daily office operations; and 
+* 6) Perform other duties as required.
 ### Competencies
 Professionalism: Show pride in work and in achievements; observe deadlines and achieving results; be motivated by professional rather than personal concerns; show persistence when faced with difficult problems or challenges; remain calm in stressful situations; and take responsibility for incorporating gender perspectives and ensuring the equal participation of women and men in all areas of work. Planning and Organization: Develops clear goals that are consistent with agreed strategies; Identifies priority activities and assignments; Adjusts priorities as required; Allocates appropriate amount of time and resources for completing work; Foresees risks and allows for contingencies when planning; Monitors and adjusts plans and actions as necessary; Uses time efficiently. Communication: Speaks and writes clearly and effectively; Listens to others, correctly interprets messages from others and responds appropriately; Asks questions to clarify, and exhibits interest in having two-way communication; Tailors language, tone, style and format to match the audience; Demonstrates openness in sharing information and keeping people informed.
 ### Education
