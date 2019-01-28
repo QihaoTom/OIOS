@@ -1,4 +1,4 @@
 # OIOS Paper
-## Dependet Variable
+### Dependet Variable
 * Reading Materials
 >
