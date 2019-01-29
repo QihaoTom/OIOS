@@ -2,7 +2,7 @@
 
 *Jan 23*
 ### How to use predictive analysis: Sexual Harassment
-* **[Evaluation of the United Nations Office for Disarmament Affairs](file:///Users/tangqihao/Downloads/1524059807_1_OIOS%20IED-18-007%20UNODA.pdf)**
+* [Evaluation of the United Nations Office for Disarmament Affairs](file:///Users/tangqihao/Downloads/1524059807_1_OIOS%20IED-18-007%20UNODA.pdf)
 
 *Jan 25*
 ### Dependet Variable: Effectiveness of mandate implementation
