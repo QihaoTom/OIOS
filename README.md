@@ -1,11 +1,11 @@
 # UN/OIOS/IED
 
 * *Jan 23* 
-### How to use predictive analysis: Sexual Harassment
-* **Safe Space Survey Report: Survey on Sexual Harassment in our Workplace**
+How to use predictive analysis: Sexual Harassment
+  * **Safe Space Survey Report: Survey on Sexual Harassment in our Workplace**
 
 * *Jan 25*
-### Dependet Variable: Effectiveness of mandate implementation
+   Dependet Variable: Effectiveness of mandate implementation
 * **Evaluating the Conflict-Reducing Effect of UN PeacekeepingOperations**
 * *Peacekeeping Works | Evaluating the effectiveness of UN peacekeeping operations*
 
