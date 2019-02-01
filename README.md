@@ -2,21 +2,21 @@
 *Jan 21*
 ### Brainstorming for the Working Culture in PKOs
 * What issues of working culture?
- * Eplicit organizational values
-   * Risk
-   * Performance, efficiency
-   * Bureaucracy
-   * Management
-   * Leadership
-   * Accountability, responsibility
-   * Results vs. process
-   * Siloes
-   * Transparency
-   * Agility/innovation
-   * Empowerment
- * Senior leadership expectations
- * Standards of conduct for Intl. Civil Service
- * Values of individuals
+  * Eplicit organizational values
+    * Risk
+    * Performance, efficiency
+    * Bureaucracy
+    * Management
+    * Leadership
+    * Accountability, responsibility
+    * Results vs. process
+    * Siloes
+    * Transparency
+    * Agility/innovation
+    * Empowerment
+  * Senior leadership expectations
+  * Standards of conduct for Intl. Civil Service
+  * Values of individuals
 * on the scope?
 * on the methodology?
 
